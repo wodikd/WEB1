@@ -1,0 +1,12 @@
+.circle {
+    margin: 0;
+    width: 100px;
+    height: 100px;
+    border: 15px solid red;
+    border-radius: 50%;
+}
+.wrapper {
+    margin: 0 auto;
+    padding: 30px;
+    max-width: 50%;
+}
