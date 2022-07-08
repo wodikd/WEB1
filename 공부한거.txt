@@ -14,3 +14,8 @@ image/animal.jpg 웹 페이지가 있는 폴더의 상위 폴더에 있는 anima
 
 메일 경로: 메일 주소
 mailto: hanb@hanbit.co.kr 해당 주소로 메일 전송
+
+의미 없는 이미지
+<img src="http://placehold.it/너비x높이
+유사 사이트
+http://placekitten.com/
