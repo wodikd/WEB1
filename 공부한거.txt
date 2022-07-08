@@ -1,0 +1,16 @@
+예: <a href="https://hanbit.co.kr">한빛미디어</a>
+
+절대경로: 현재 웹 페이지의 위치와 상관없이 웹 페이지 또는 파일의 위치를 나타내는 경로
+https://naver.com 네이버의 메인 페이지
+/animal.jpg 현재 웹 사이트 최상위 위치의 animal.jpg 파일
+
+상대경로: 현재 웹 페이지의 위치에 따라 경정되는 웹 페이지 또는 파일의 경로
+animal.jpg 웹 페이지가 있는 폴더의 상위 폴더에 있는 animal.jpg 파일
+image/animal.jpg 웹 페이지가 있는 폴더의 상위 폴더에 있는 animal.jpg 파일
+../animal.jpg 웹 페이지가 이쓴 폴더의 상위 폴더에 있는 animal.jpg 파일
+
+아이디 경로: 현재 웹 페이지 내부에 있는 다른 태그의 id 속성
+#name id 속성이 name인 태그의 위치로 이동
+
+메일 경로: 메일 주소
+mailto: hanb@hanbit.co.kr 해당 주소로 메일 전송
